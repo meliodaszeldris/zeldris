@@ -1,0 +1,28 @@
+h1{
+    
+    color: aqua;
+background-color: black;
+
+}
+main{
+    display:  flex;
+}
+
+div{ width: 30%;
+     margin: 10px;
+     border:1px black solid;
+     padding: 50px;
+}
+div a{
+    color:black;
+    background-color: orangered;
+    padding: 10px;
+    display: block;
+}
+
+div img{
+    width: 100%;
+    height: 350px;
+    object-fit: cover;
+    object-position: top;
+}
